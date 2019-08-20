@@ -30,15 +30,15 @@ function App() {
           <article>
             <p>Follow the below steps to add the extension to your Google Chrome browser:</p>
             <ol className={"leading_tab"}>
-              <li>Open the Extension Manager</li>
+              <li>Open the <a href="chrome://extensions" target="_blank">Extension Manager</a></li>
               <li>Turn on the developer mode</li>
               <li>Download the extension zip file <a href="./build.zip">here</a></li>
-              <li>Now click on Load unpacked button on the top left and select the extracted folder</li>
+              <li>Now click on <em>Load unpacked</em> button on the top left and select the extracted folder</li>
               <li>You are all-set now, head over to lihkg.com and enjoy keyboard fighting!</li>
             </ol>
             <p>
               Please get in touch if you need any help! <br />
-              If everything is going well, please feel free to buy me a cup of coffee. <br />
+              If everything is going well, feel free to buy me a cup of coffee. <br />
               Email: qlmviro2ke@protonmail.com
             </p>
           </article>

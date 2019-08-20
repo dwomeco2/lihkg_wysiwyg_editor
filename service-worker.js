@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lihkg_wysiwyg_editor/precache-manifest.7180b62d95710163110833a805d6333f.js"
+  "/lihkg_wysiwyg_editor/precache-manifest.9fa34860ea28f3063d333838dbdd9cf7.js"
 );
 
 self.addEventListener('message', (event) => {

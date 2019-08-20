@@ -18,7 +18,7 @@ function App() {
           <article>
               <p>Make sure to confirm the SHA-256 for the downloaded zip package, lihkg account number also with the URL on this website.</p>
               <pre>
-                SHA-256: c97a8d6914eee9a0f317bd5ddac9310df4bcdb46cc6f679fc7dbaeea958aa2fa <br />
+                SHA-256: df8f717c1666df29b476e5f9fad8cd20c56014cffdb422d88fa5fe618adcfee5 <br />
                 Lihkg #no: #61985
               </pre>
           </article>
@@ -32,13 +32,13 @@ function App() {
             <ol className={"leading_tab"}>
               <li>Open the Extension Manager</li>
               <li>Turn on the developer mode</li>
-              <li>Download the extension zip file <a href="#">here</a></li>
+              <li>Download the extension zip file <a href="./build.zip">here</a></li>
               <li>Now click on Load unpacked button on the top left and select the extracted folder</li>
               <li>You are all-set now, head over to lihkg.com and enjoy keyboard fighting!</li>
             </ol>
             <p>
               Please get in touch if you need any help! <br />
-              If everything is going well, please feel free to buy me a cup of coffee.
+              If everything is going well, please feel free to buy me a cup of coffee. <br />
               Email: qlmviro2ke@protonmail.com
             </p>
           </article>

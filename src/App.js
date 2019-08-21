@@ -5,10 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className={"title"}>
-        <center><h1>LIHKG WYSIWYG Editor 0.1.0</h1></center>
+        <center><h1>LIHKG WYSIWYG Editor 0.1.1</h1></center>
       </header>
       <figure class="ext_image">
         <img alt="extension_img" src="https://na.cx/i/thG5DGr.png" />
+      </figure>
+      <figure class="ext_image">
+        <img alt="extension_img2" src="https://na.cx/i/OsP7crV.gif" />
       </figure>
       <main>
         <section>
@@ -16,9 +19,8 @@ function App() {
             <h2>Security tips</h2>
           </header>
           <article>
-              <p>Make sure to confirm the SHA-256 for the downloaded zip package, lihkg account number also with the URL on this website.</p>
+              <p>Make sure to confirm the lihkg account number also with the URL on this website.</p>
               <pre>
-                SHA-256: df8f717c1666df29b476e5f9fad8cd20c56014cffdb422d88fa5fe618adcfee5 <br />
                 Lihkg #no: #61985
               </pre>
           </article>
@@ -30,11 +32,13 @@ function App() {
           <article>
             <p>Follow the below steps to add the extension to your Google Chrome browser:</p>
             <ol className={"leading_tab"}>
-              <li>Open the <a href="chrome://extensions" target="_blank">Extension Manager</a></li>
-              <li>Turn on the developer mode</li>
-              <li>Download the extension zip file <a href="./build.zip">here</a></li>
-              <li>Now click on <em>Load unpacked</em> button on the top left and select the extracted folder</li>
-              <li>You are all-set now, head over to lihkg.com and enjoy keyboard fighting!</li>
+              <li>Download the extension crx file <a href="./lihkg_wysiwyg_editor.crx">here</a></li>
+              <li>Go to the extension manager page chrome://extensions</li>
+              <li>Drag and Drop the extension crx file to your chrome browser</li>
+              <li>Confirm to install the extension</li>
+              <li>Confirm the app id <code>kajbhaokhejchokeeaeghickdcgpghde</code> in extension manager page</li>
+              <li>You are all-set now, head over to lihkg.com, a transparent toolbar appears at the bottom left borner<img alt="minimized_ext" src="https://imgur.com/eczddHD.png"/></li>
+              <li>Enjoy keyboard fighting!</li>
             </ol>
             <p>
               Please get in touch if you need any help! <br />

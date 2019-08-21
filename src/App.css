@@ -1,9 +1,10 @@
+.App {
+    display: grid;
+    justify-content: center;
+}
+
 .App > * {
-    max-width: calc(800px - (30px * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 30px;
-    padding-left: 30px;
+    max-width: 90vw;
 }
 
 header {
@@ -32,8 +33,6 @@ p, ol {
     padding-left: 2rem;
 }
 
-.ext_image {
-    max-width: unset;
-    display: flex;
-    justify-content: center;
+.ext_image > img {
+    max-width: 90vw;
 }

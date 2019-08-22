@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lihkg_wysiwyg_editor/static/css/main.e1c463e6.chunk.css",
-    "main.js": "/lihkg_wysiwyg_editor/static/js/main.60da8f73.chunk.js",
-    "main.js.map": "/lihkg_wysiwyg_editor/static/js/main.60da8f73.chunk.js.map",
+    "main.js": "/lihkg_wysiwyg_editor/static/js/main.f4f6e52a.chunk.js",
+    "main.js.map": "/lihkg_wysiwyg_editor/static/js/main.f4f6e52a.chunk.js.map",
     "runtime~main.js": "/lihkg_wysiwyg_editor/static/js/runtime~main.4e07428d.js",
     "runtime~main.js.map": "/lihkg_wysiwyg_editor/static/js/runtime~main.4e07428d.js.map",
     "static/js/2.7b261a5b.chunk.js": "/lihkg_wysiwyg_editor/static/js/2.7b261a5b.chunk.js",
     "static/js/2.7b261a5b.chunk.js.map": "/lihkg_wysiwyg_editor/static/js/2.7b261a5b.chunk.js.map",
     "index.html": "/lihkg_wysiwyg_editor/index.html",
-    "precache-manifest.af837b0f363c0a2c92a163460b112289.js": "/lihkg_wysiwyg_editor/precache-manifest.af837b0f363c0a2c92a163460b112289.js",
+    "precache-manifest.0d934967bf2913c6645c904caa27d74f.js": "/lihkg_wysiwyg_editor/precache-manifest.0d934967bf2913c6645c904caa27d74f.js",
     "service-worker.js": "/lihkg_wysiwyg_editor/service-worker.js",
     "static/css/main.e1c463e6.chunk.css.map": "/lihkg_wysiwyg_editor/static/css/main.e1c463e6.chunk.css.map"
   }
